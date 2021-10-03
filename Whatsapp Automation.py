@@ -1,12 +1,10 @@
 from tkinter import *
-import webbrowser as wb
 from PIL import ImageTk, Image
 from pyautogui import click
 from pyautogui import press
 from keyboard import write
 from time import sleep
 import pyautogui
-import os
 import time
 import tkinter
 import subprocess
